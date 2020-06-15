@@ -12,5 +12,5 @@
  
 ## Algorithms
  * Apriori
-   - This algorith uses effective prunning of search space with the use of downward closure property.
+   - This algorithm uses effective prunning of search space with the use of downward closure property.
    - Downward closure property means that subset of large itemset exceeds the minimum required support.
