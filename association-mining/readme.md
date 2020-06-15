@@ -9,3 +9,8 @@
 ## Confidence monotonicity
  * Let X1, X2, and I be itemsets such that X1 ⊂ X2 ⊂ I. Then the confidence of X2 ⇒ I − X2 is at least that of X1 ⇒ I − X1.
  * conf(X2 ⇒ I − X2) ≥ conf(X1 ⇒ I − X1)
+ 
+## Algorithms
+ * Apriori
+   - This algorith uses effective prunning of search space with the use of downward closure property.
+   - Downward closure property means that subset of large itemset exceeds the minimum required support.
