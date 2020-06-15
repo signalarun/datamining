@@ -15,3 +15,4 @@
    - This algorithm uses effective prunning of search space with the use of downward closure property.
    - Downward closure property means that subset of large itemset exceeds the minimum required support.
    - If  an itemset is infrequent then there is little point in counting the support for its superset candidates.
+   - Algorithms that count the support of candidates with increasing length are refered to as level-wise algorithms.
