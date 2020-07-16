@@ -25,4 +25,9 @@
      - Candidate generation
      - Pruning
      - Support counting
+ * CATS/CAN Tree
+   - Avoids candidate generation
+ * Datastream AR mining
+   - Compact Pattern Stream Tree
+      + This too avoids candidate generation
      
